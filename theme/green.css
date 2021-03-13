@@ -1,0 +1,26 @@
+/* Website Green Color */
+body{background: #60d2bc;}
+.headersection,.footersection {background: #129100 none repeat scroll 0 0;}
+.icon a {background: #19c600 none repeat scroll 0 0;}
+.searchbtn input[type="text"] {border: 1px solid #5a9f5a;background: #1ff700;}
+input[type="submit"] {background: #006e00  none repeat scroll 0 0 !important;border: 1px solid #15a101 !important;}
+.searchbtn input[type="submit"]:hover {background: #15a101 none repeat scroll 0 0 !important;border: 1px solid #01b647 !important;}
+.navsection {background: none repeat scroll 0 0 #00c83e;}
+.navsection ul li {border-left: 1px solid #00a915;border-right: 1px solid #13f300;}
+.maincontent,.sidebar {background: #98ffa8e0 none repeat scroll 0 0;border: 1px solid #ded4c5;}
+.contentsection {border: 1px solid #15a101;}
+.samepost h2 a {color: #006e00;} 
+.samepost img,.about img {border: 1px solid #01b647;}
+.samepost h2 {border-bottom: 2px solid #55d540d4;color:#006e00}
+.samesidebar h2, .about h2 {background: #00c83e none repeat scroll 0 0;border-bottom: 2px solid #15a101 !important;color:#fff !important;}
+.readmore a { background: #00c83e none repeat scroll 0 0;border: 1px solid #55d540d4;color: #fff;}
+.readmore a:hover {background: #4cb64c !important;color: #fff}
+.pagination a {background: #00c83e !important;}
+.pagination a:hover {background: #129100 !important;}
+.footermenu ul li a {color: #ddd;}
+.popular h3,.copyright {font-weight:600;}
+.popular img {border:none;}
+.samesidebar ul li,.popular h3 {border-bottom: 1px solid #09cc00;}
+.slidersection .template{
+max-height: 290px;
+}
